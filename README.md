@@ -9,8 +9,10 @@ A maintained list of interesting technologies and resources about javascript eco
 | [Vue](https://vuejs.org)      | no            |
 
 ## Boilerplate
-- [create-react-app](https://github.com/facebook/create-react-app)
-- [tsdx](https://github.com/jaredpalmer/tsdx)
+| Name                                                             | Focuses product development | Focuses library development |
+|------------------------------------------------------------------|----------------------------------------------------------------------
+| [create-react-app](https://github.com/facebook/create-react-app) | yes                         | no                                     |
+| [tsdx](https://github.com/jaredpalmer/tsdx)                      | no                          | yes                                   |
 
 ## Test
 - [Jest](https://jestjs.io)
