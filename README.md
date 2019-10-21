@@ -10,7 +10,7 @@ A maintained list of interesting technologies and resources about javascript eco
 
 ## Boilerplate
 | Name                                                             | Focuses product development | Focuses library development |
-|------------------------------------------------------------------|----------------------------------------------------------------------
+|------------------------------------------------------------------|---------------------------------------------------------------------|
 | [create-react-app](https://github.com/facebook/create-react-app) | yes                         | no                                     |
 | [tsdx](https://github.com/jaredpalmer/tsdx)                      | no                          | yes                                   |
 
