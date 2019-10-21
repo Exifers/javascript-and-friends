@@ -16,31 +16,45 @@ A maintained list of interesting technologies and resources about javascript eco
 | [tsdx](https://github.com/jaredpalmer/tsdx)                      | no                          | yes                                   |
 
 ## Component library
-- [Bootstrap]()
+| Name         |
+|--------------|
+| [Bootstrap]()|
 
 ## CSS preprocessors
-- [SASS]()
+| Name    |
+|---------|
+| [SASS]()|
 
 ## Icons
-- [material-ui]()
-- [font-awesome]()
+| Name            |
+|-----------------|
+| [material-ui]() |
+| [font-awesome]()|
 
 ## React component library
-- [gg-editor](https://github.com/alibaba/GGEditor)
+| Name                                            |
+|-------------------------------------------------|
+| [gg-editor](https://github.com/alibaba/GGEditor)|
 
 ## React design system
-- [antd](https://ant.design/docs/react/introduce)
-- [react-material-ui](https://material-ui.com)
-- [carbon](https://www.carbondesignsystem.com/get-started/develop/react/)
-- [clarity-react](https://github.com/EMCECS/clarity-react)
-- [semantic-ui](https://react.semantic-ui.com)
+| Name                                                                    |
+|-------------------------------------------------------------------------|
+| [antd](https://ant.design/docs/react/introduce)                         |
+| [react-material-ui](https://material-ui.com)                            |
+| [carbon](https://www.carbondesignsystem.com/get-started/develop/react/) |
+| [clarity-react](https://github.com/EMCECS/clarity-react)                |
+| [semantic-ui](https://react.semantic-ui.com)                            |
 
 ## React animations library
-- [ant-motion](https://motion.ant.design/components/tween-one)
-- [react-transition-group](https://reactcommunity.org/react-transition-group/)
+| Name                                                                        |
+|-----------------------------------------------------------------------------|
+| [ant-motion](https://motion.ant.design/components/tween-one)                |
+| [react-transition-group](https://reactcommunity.org/react-transition-group/)|
 
 ## React drag & drop library
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+| Name                                                                    |
+|-------------------------------------------------------------------------|
+| [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) |
 
 ## React libraries
 - [react-router]()
