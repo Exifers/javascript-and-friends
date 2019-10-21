@@ -1,5 +1,5 @@
-# javascript-and-friends
-A maintained list of interesting technologies and resources about javascript ecosystem and related tools.
+# Javascript & Friends
+A maintained list of Javascript technologies, frameworks and resources.
 
 ## Core libraries and frameworks
 | Name                          | Transpilation |
@@ -86,38 +86,54 @@ A maintained list of interesting technologies and resources about javascript eco
 | [Jasmine](https://jasmine.github.io)             |
 
 ## Linter
-- [Eslint](https://eslint.org)
+| Name                           |
+|--------------------------------|
+| [Eslint](https://eslint.org)   |
 
 ## Languages
-- [Typescript](https://www.typescriptlang.org)
-- [Coffescript](https://coffeescript.org)
-- [Clojurescript](https://clojurescript.org)
+| Name                                         |
+|----------------------------------------------|
+| [Typescript](https://www.typescriptlang.org) |
+| [Coffescript](https://coffeescript.org)      |
+| [Clojurescript](https://clojurescript.org)   |
 
 ## Task runners
-- [Gulp](https://gulpjs.com)
-- [Grunt](https://gruntjs.com)
+| Name                                         |
+|----------------------------------------------|
+| [Gulp](https://gulpjs.com)                   |
+| [Grunt](https://gruntjs.com)                 |
 
 ## Bundlers
-- [Webpack](https://webpack.js.org)
-- [Browserify](http://browserify.org/)
-- [Rollup](https://rollupjs.org/guide/)
-- [Parcel](https://parceljs.org)
+| Name                                         |
+|----------------------------------------------|
+| [Webpack](https://webpack.js.org)            |
+| [Browserify](http://browserify.org/)         |
+| [Rollup](https://rollupjs.org/guide/)        |
+| [Parcel](https://parceljs.org)               |
 
 ## Scaffolding
-- [Yeoman](https://yeoman.io)
+| Name                                         |
+|----------------------------------------------|
+| [Yeoman](https://yeoman.io)                  |
 
 ## Module type
-- common js (cjs)
-- ecmascript 2015 modules (esm)
-- immediately invoked function expression (iffe)
-- asynchronous module definition (amd)
+| Name                                             |
+|--------------------------------------------------|
+| common js (cjs)                                  |
+| ecmascript 2015 modules (esm)                    |
+| immediately invoked function expression (iffe)   |
+| asynchronous module definition (amd)             |
 
 ## Module loader
-- [requirejs](https://requirejs.org)
+| Name                                             |
+|--------------------------------------------------|
+| [requirejs](https://requirejs.org)               |
 
 ## Documentation generation
-- [generator-badges](https://github.com/tanhauhau/generator-badge)
-- [shield.io](https://shields.io)
+| Name                                                               |
+|--------------------------------------------------------------------|
+| [generator-badges](https://github.com/tanhauhau/generator-badge)   |
+| [shield.io](https://shields.io)                                    |
 
 
 ## Package manager
