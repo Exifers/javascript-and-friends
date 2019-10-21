@@ -21,9 +21,12 @@ A maintained list of interesting technologies and resources about javascript eco
 | [Bootstrap]()|
 
 ## CSS preprocessors
-| Name    |
-|---------|
-| [SASS]()|
+| Name                             |
+|----------------------------------|
+| [SASS]()                         |
+| [LESS](http://lesscss.org/)      |
+| [Stylus](http://stylus-lang.com/)|
+| [PostCSS](https://postcss.org)   |
 
 ## Icons
 | Name            |
@@ -56,19 +59,31 @@ A maintained list of interesting technologies and resources about javascript eco
 |-------------------------------------------------------------------------|
 | [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) |
 
+## React Css-In-Js
+| Name          |
+|---------------|
+| [react-jss]() |
+| [aphrodite]() |
+
 ## React libraries
-- [react-router]()
-- [redux]()
-- [react-redux]()
+| Name             |
+|------------------|
+| [react-router]() |
+| [redux]()        |
+| [react-redux]()  |
 
 ## Design templates
-- [creative-tim](https://www.creative-tim.com/templates/free)
+| Name                                                        |
+|-------------------------------------------------------------|
+| [creative-tim](https://www.creative-tim.com/templates/free) |
 
 ## Test
-- [Jest](https://jestjs.io)
-- [Mocha](https://mochajs.org)
-- [Karma](https://karma-runner.github.io/1.0/)
-- [Jasmine](https://jasmine.github.io)
+| Name                                             |
+|--------------------------------------------------|
+| [Jest](https://jestjs.io)                        |
+| [Mocha](https://mochajs.org)                     |
+| [Karma](https://karma-runner.github.io/1.0/)     |
+| [Jasmine](https://jasmine.github.io)             |
 
 ## Linter
 - [Eslint](https://eslint.org)
