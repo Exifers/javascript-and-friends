@@ -137,8 +137,12 @@ A maintained list of Javascript technologies, frameworks and resources.
 
 
 ## Package manager
-- [npm](https://www.npmjs.com)
-- [yarn](https://yarnpkg.com/lang/en/)
+| Name                                           |
+|------------------------------------------------|
+| [npm](https://www.npmjs.com)                   |
+| [yarn](https://yarnpkg.com/lang/en/)           |
 
 ## Specifications
-- [EcmaScript](https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
+| Name                                                                                      |
+|-------------------------------------------------------------------------------------------|
+| [EcmaScript](https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm) |
