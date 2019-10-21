@@ -1,42 +1,42 @@
 # javascript-and-friends
 A maintained list of interesting technologies and resources about javascript ecosystem and related tools.
 
-# Core libraries
+## Core libraries
 - [React](https://reactjs.org)
 - [Angular](https://angular.io)
 - [Vue](https://vuejs.org)
 
-# Boilerplate
+## Boilerplate
 - [create-react-app](https://github.com/facebook/create-react-app)
 - [tsdx](https://github.com/jaredpalmer/tsdx)
 
-# Test
+## Test
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
 
-# Lint
+## Linter
 - [Eslint](https://eslint.org)
 
-# Languages
+## Languages
 - [Typescript]()
 - [Coffescript]()
 - [Clojurescript]()
 
-# Task runners
+## Task runners
 - [Gulp](https://gulpjs.com)
 - [Grunt](https://gruntjs.com)
 
-# Bundlers
+## Bundlers
 - [Webpack](https://webpack.js.org)
 - [Browserify](http://browserify.org/)
 - [Rollup](https://rollupjs.org/guide/)
 - [Parcel](https://parceljs.org)
 
-# Modules
+## Modules
 - common js (cjs)
 - ecmascript 2015 modules (esm)
 - immediately invoked function expression (iffe)
 - asynchronous module definition (amd)
 
-# Specifications
+## Specifications
 - [EcmaScript](https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
