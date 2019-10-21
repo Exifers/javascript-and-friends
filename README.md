@@ -32,11 +32,18 @@ A maintained list of interesting technologies and resources about javascript eco
 - [Rollup](https://rollupjs.org/guide/)
 - [Parcel](https://parceljs.org)
 
-## Modules
+## Module type
 - common js (cjs)
 - ecmascript 2015 modules (esm)
 - immediately invoked function expression (iffe)
 - asynchronous module definition (amd)
+
+## Module loader
+- [requirejs](https://requirejs.org)
+
+## Package manager
+- npm
+- yarn
 
 ## Specifications
 - [EcmaScript](https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
