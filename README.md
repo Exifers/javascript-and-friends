@@ -7,6 +7,7 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [React](https://reactjs.org)  | yes           |
 | [Angular](https://angular.io) | yes           |
 | [Vue](https://vuejs.org)      | no            |
+| [Node](https://nodejs.org/en/)| no            |
 | [Electron](https://electronjs.org) | no       |
 
 ## Boilerplate
