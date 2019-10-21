@@ -1,12 +1,13 @@
 # javascript-and-friends
 A maintained list of interesting technologies and resources about javascript ecosystem and related tools.
 
-## Core libraries
+## Core libraries and frameworks
 | Name                          | Transpilation |
 |-------------------------------|---------------|
 | [React](https://reactjs.org)  | yes           |
 | [Angular](https://angular.io) | yes           |
 | [Vue](https://vuejs.org)      | no            |
+| [Electron](https://electronjs.org) | no       |
 
 ## Boilerplate
 | Name                                                             | Focuses product development | Focuses library development |
@@ -14,9 +15,46 @@ A maintained list of interesting technologies and resources about javascript eco
 | [create-react-app](https://github.com/facebook/create-react-app) | yes                         | no                                     |
 | [tsdx](https://github.com/jaredpalmer/tsdx)                      | no                          | yes                                   |
 
+## Component library
+- [Bootstrap]()
+
+## CSS preprocessors
+- [SASS]()
+
+## Icons
+- [material-ui]()
+- [font-awesome]()
+
+## React component library
+- [gg-editor](https://github.com/alibaba/GGEditor)
+
+## React design system
+- [antd](https://ant.design/docs/react/introduce)
+- [react-material-ui](https://material-ui.com)
+- [carbon](https://www.carbondesignsystem.com/get-started/develop/react/)
+- [clarity-react](https://github.com/EMCECS/clarity-react)
+- [semantic-ui](https://react.semantic-ui.com)
+
+## React animations library
+- [ant-motion](https://motion.ant.design/components/tween-one)
+- [react-transition-group](https://reactcommunity.org/react-transition-group/)
+
+## React drag & drop library
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+
+## React libraries
+- [react-router]()
+- [redux]()
+- [react-redux]()
+
+## Design templates
+- [creative-tim](https://www.creative-tim.com/templates/free)
+
 ## Test
 - [Jest](https://jestjs.io)
 - [Mocha](https://mochajs.org)
+- [Karma](https://karma-runner.github.io/1.0/)
+- [Jasmine](https://jasmine.github.io)
 
 ## Linter
 - [Eslint](https://eslint.org)
@@ -36,6 +74,9 @@ A maintained list of interesting technologies and resources about javascript eco
 - [Rollup](https://rollupjs.org/guide/)
 - [Parcel](https://parceljs.org)
 
+## Scaffolding
+- [Yeoman](https://yeoman.io)
+
 ## Module type
 - common js (cjs)
 - ecmascript 2015 modules (esm)
@@ -44,6 +85,11 @@ A maintained list of interesting technologies and resources about javascript eco
 
 ## Module loader
 - [requirejs](https://requirejs.org)
+
+## Documentation generation
+- [generator-badges](https://github.com/tanhauhau/generator-badge)
+- [shield.io](https://shields.io)
+
 
 ## Package manager
 - [npm](https://www.npmjs.com)
