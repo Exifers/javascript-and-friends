@@ -78,11 +78,6 @@ A maintained list of Javascript technologies, frameworks and resources.
 |-------------------------------------------------------------|
 | [creative-tim](https://www.creative-tim.com/templates/free) |
 
-## Design R&D framework
-| Name                                                              |
-|-------------------------------------------------------------------|
-| [Ice](https://github.com/alibaba/ice/blob/master/README.en-US.md) |
-
 ## Test
 | Name                                             |
 |--------------------------------------------------|
