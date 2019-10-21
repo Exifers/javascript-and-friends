@@ -2,9 +2,11 @@
 A maintained list of interesting technologies and resources about javascript ecosystem and related tools.
 
 ## Core libraries
-- [React](https://reactjs.org)
-- [Angular](https://angular.io)
-- [Vue](https://vuejs.org)
+| Name                          | Transpilation |
+|-------------------------------|---------------|
+| [React](https://reactjs.org)  | yes           |
+| [Angular](https://angular.io) | yes           |
+| [Vue](https://vuejs.org)      | no            |
 
 ## Boilerplate
 - [create-react-app](https://github.com/facebook/create-react-app)
