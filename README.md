@@ -10,7 +10,7 @@ A maintained list of interesting technologies and resources about javascript eco
 
 ## Boilerplate
 | Name                                                             | Focuses product development | Focuses library development |
-|------------------------------------------------------------------|---------------------------------------------------------------------|
+|------------------------------------------------------------------|-----------------------------|---------------------------------------|
 | [create-react-app](https://github.com/facebook/create-react-app) | yes                         | no                                     |
 | [tsdx](https://github.com/jaredpalmer/tsdx)                      | no                          | yes                                   |
 
@@ -22,9 +22,9 @@ A maintained list of interesting technologies and resources about javascript eco
 - [Eslint](https://eslint.org)
 
 ## Languages
-- [Typescript]()
-- [Coffescript]()
-- [Clojurescript]()
+- [Typescript](https://www.typescriptlang.org)
+- [Coffescript](https://coffeescript.org)
+- [Clojurescript](https://clojurescript.org)
 
 ## Task runners
 - [Gulp](https://gulpjs.com)
@@ -46,8 +46,8 @@ A maintained list of interesting technologies and resources about javascript eco
 - [requirejs](https://requirejs.org)
 
 ## Package manager
-- npm
-- yarn
+- [npm](https://www.npmjs.com)
+- [yarn](https://yarnpkg.com/lang/en/)
 
 ## Specifications
 - [EcmaScript](https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm)
