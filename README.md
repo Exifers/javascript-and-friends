@@ -48,6 +48,7 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [carbon](https://www.carbondesignsystem.com/get-started/develop/react/) |
 | [clarity-react](https://github.com/EMCECS/clarity-react)                |
 | [semantic-ui](https://react.semantic-ui.com)                            |
+| [element-ui](https://elemefe.github.io/element-react/#/en-US/quick-start)|
 
 ## React animations library
 | Name                                                                        |
