@@ -55,6 +55,8 @@ A maintained list of Javascript technologies, frameworks and resources.
 |-----------------------------------------------------------------------------|
 | [ant-motion](https://motion.ant.design/components/tween-one)                |
 | [react-transition-group](https://reactcommunity.org/react-transition-group/)|
+| [react-zoom-pan-pinch](https://www.npmjs.com/package/react-zoom-pan-pinch)  |
+| [react-sticky](https://www.npmjs.com/package/react-sticky)                  |
 
 ## React drag & drop library
 | Name                                                                    |
