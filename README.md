@@ -81,6 +81,11 @@ A maintained list of Javascript technologies, frameworks and resources.
 |-------------------------------------------------------------|
 | [creative-tim](https://www.creative-tim.com/templates/free) |
 
+## Map
+| Name                                                         |
+|--------------------------------------------------------------|
+| [react-simple-maps](https://www.react-simple-maps.io)        |
+
 ## Test
 | Name                                             |
 |--------------------------------------------------|
