@@ -57,6 +57,7 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [react-transition-group](https://reactcommunity.org/react-transition-group/)|
 | [react-zoom-pan-pinch](https://www.npmjs.com/package/react-zoom-pan-pinch)  |
 | [react-sticky](https://www.npmjs.com/package/react-sticky)                  |
+| [react-vivus](https://github.com/HelloQingGuo/react-vivus)                  |
 
 ## React drag & drop library
 | Name                                                                    |
@@ -124,6 +125,11 @@ A maintained list of Javascript technologies, frameworks and resources.
 | Name                                         |
 |----------------------------------------------|
 | [Yeoman](https://yeoman.io)                  |
+
+## Slideshow
+| Name                                          |
+|-----------------------------------------------|
+| [mdx-deck](https://github.com/jxnblk/mdx-deck)|
 
 ## Module type
 | Name                                             |
