@@ -87,6 +87,11 @@ A maintained list of Javascript technologies, frameworks and resources.
 |--------------------------------------------------------------|
 | [react-simple-maps](https://www.react-simple-maps.io)        |
 
+## Usefull components
+| Name                                                                             |
+|----------------------------------------------------------------------------------|
+| [react-date-range](https://www.npmjs.com/package/react-date-range)               |
+
 ## Test
 | Name                                             |
 |--------------------------------------------------|
