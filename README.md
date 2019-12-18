@@ -58,6 +58,7 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [react-zoom-pan-pinch](https://www.npmjs.com/package/react-zoom-pan-pinch)  |
 | [react-sticky](https://www.npmjs.com/package/react-sticky)                  |
 | [react-vivus](https://github.com/HelloQingGuo/react-vivus)                  |
+| [react-spring](https://www.npmjs.com/package/react-spring)                  |
 
 ## React drag & drop library
 | Name                                                                    |
