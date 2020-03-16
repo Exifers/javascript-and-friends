@@ -79,7 +79,8 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [react-redux]()  |
 
 ## Scroll
-| Name |
+| Name                                                                 |
+|----------------------------------------------------------------------|
 | [react-scroll-sync](https://github.com/okonet/react-scroll-sync)     |
 
 ## Design templates
