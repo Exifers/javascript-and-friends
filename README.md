@@ -59,6 +59,7 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [react-sticky](https://www.npmjs.com/package/react-sticky)                  |
 | [react-vivus](https://github.com/HelloQingGuo/react-vivus)                  |
 | [react-spring](https://www.npmjs.com/package/react-spring)                  |
+| [framer-motion](https://www.framer.com/motion/)                             |
 
 ## React drag & drop library
 | Name                                                                    |
