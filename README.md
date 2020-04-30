@@ -36,9 +36,10 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [font-awesome]()|
 
 ## React component library
-| Name                                            |
-|-------------------------------------------------|
-| [gg-editor](https://github.com/alibaba/GGEditor)|
+| Name                                                    |
+|---------------------------------------------------------|
+| [gg-editor](https://github.com/alibaba/GGEditor)        |
+| [react-color](https://www.npmjs.com/package/react-color)|
 
 ## React design system
 | Name                                                                    |
