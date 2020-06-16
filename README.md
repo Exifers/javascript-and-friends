@@ -50,6 +50,7 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [clarity-react](https://github.com/EMCECS/clarity-react)                |
 | [semantic-ui](https://react.semantic-ui.com)                            |
 | [element-ui](https://elemefe.github.io/element-react/#/en-US/quick-start)|
+| [rsuite](https://rsuitejs.com/)                                         |
 
 ## React animations library
 | Name                                                                        |
