@@ -172,6 +172,14 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [npm](https://www.npmjs.com)                   |
 | [yarn](https://yarnpkg.com/lang/en/)           |
 
+## Node backend packages
+| Name                                                |
+|-----------------------------------------------------|
+| [express](https://github.com/expressjs/express)     |
+| [sequelize](https://github.com/sequelize/sequelize) |
+| [epilogue](https://github.com/dchester/epilogue/)   |
+| [mongoose](https://github.com/Automattic/mongoose)  |
+
 ## Specifications
 | Name                                                                                      |
 |-------------------------------------------------------------------------------------------|
