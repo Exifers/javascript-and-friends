@@ -179,6 +179,8 @@ A maintained list of Javascript technologies, frameworks and resources.
 | [sequelize](https://github.com/sequelize/sequelize) |
 | [epilogue](https://github.com/dchester/epilogue/)   |
 | [mongoose](https://github.com/Automattic/mongoose)  |
+| [koa](https://github.com/koajs/koa)                 |
+| [hapi](https://github.com/hapijs/hapi)              |
 
 ## Specifications
 | Name                                                                                      |
