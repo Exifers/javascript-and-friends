@@ -68,6 +68,7 @@ A maintained list of Javascript technologies, frameworks and resources.
 | Name                                                                    |
 |-------------------------------------------------------------------------|
 | [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) |
+| [react-dropzone](https://github.com/react-dropzone/react-dropzone)      |
 
 ## React Css-In-Js
 | Name          |
